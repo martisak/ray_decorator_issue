@@ -13,3 +13,8 @@ make html
 ```
 
 Then open `build/html/index.html` in your favorite browser.
+
+
+### Example
+
+![Screenshot](screenshot.png) 
