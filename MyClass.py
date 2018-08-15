@@ -16,6 +16,13 @@ class MyClass(object):
 
         self.a = a
 
+    def get_a(self):
+        """
+        :returns: the a
+        """
+
+        return self.a
+
 
 class MyUndecoratedClass(object):
 
